@@ -31,8 +31,8 @@ apt update
 apt upgrade
 pkg install git -y
 pkg install nodejs -y
-git clone USE YOUR FORK LINK
-cd ABHI-BUG-BOT
+git clone (use YOUR forked link)
+cd ABHI-BUG-BOT (if u changed bot name while forking? then give the nme after cd)
 npm install
 npm start
 
