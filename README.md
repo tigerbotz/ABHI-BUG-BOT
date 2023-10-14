@@ -23,7 +23,7 @@ ABHI-BUG-BOT Multi Device WhatsApp Bug Bot.
     <br>
 <a href="https://github.com/AbhishekSuresh2/ABHI-BUG-BOT/fork"><img title="ABHISHEK-SER" src="https://img.shields.io/badge/FORK Bot-BOT?color=black&style=for-the-badge&logo=stackshare"></a>
 
-## `NO NEED TO SCAN QR CODE PAIRING CODE ADDED`
+## `NO NEED TO SCAN QR CODE PAIRING CODE ADDED(you will get it after running the commands)`
 
 ## `For Termux/Ssh/Ubuntu`
 ```
