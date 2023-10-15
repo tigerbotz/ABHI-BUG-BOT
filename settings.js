@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.ownernomer = "919074692450"
 global.ownername = "Abhishek Suresh"
 global.ytname = "YT: Comedy Melody CH"
-global.socialm = "GitHub: DGXeon"
+global.socialm = "GitHub: AbhishekSuresh2"
 global.location = "India, Kerala, Idukki"
 
 global.ownernumber = '919074692450'  //creator number
