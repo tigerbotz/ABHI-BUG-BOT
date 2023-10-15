@@ -899,7 +899,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the owner😉`
+                let teks = `Hi ${pushname} 👋\nSet Premium On Your Bot Number\nFirst Open It github.com/AbhishekSuresh2/ABHI-BUG-BOT/fork And Click Create Fork If You Dont Forked Yet\nAfter Forking Open *database* File In database File You Will See A File Named *premium.json* Open It And Change The 919074693450 Number With Your Bot Number\nDont Forgot To Add Your Contry Code First Example 91`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
